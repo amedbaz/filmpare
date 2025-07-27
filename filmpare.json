@@ -1,6 +1,36 @@
 {
   "news3":[
-   
+        {
+   "id":5,
+      "wene1":"https://video-delivery-worker.kurdishatlas.workers.dev/Logo/th.jpeg",
+      "wene":"https://video-delivery-worker.kurdishatlas.workers.dev/Logo/th.jpeg",
+      "ism":" ",
+      "nav":"Thunderbolts",
+    "action":"film",
+    "aaction":" Action",
+    "raiting":"star",
+    "araitng":" 7.3",
+    "time":"time-sharp",
+    "atime":" 2h 07m",
+    "trailer":"ترەیلەر",
+    "youtube":"8uChTOCsS5o?si=aj9OD3P2qyRdnheS",
+      "youtube1":"TFaA13i7AAc?si=INYIZ5jPIFPxSVfE",
+      "youtube2":"pqZ-PkUlJkU?si=9E7EZINZdiTrUz7H",
+      "youtube3":"V_ePU1sZ1d8?si=cg4L_QT0eW7-JbRB",
+      "jor":"Thunderbolts 2025",
+      "jer":"ژێرنڤیس",
+       "play1":"https://video-delivery-worker.kurdishatlas.workers.dev/play/play.png",
+"play":"https://video-delivery-worker.kurdishatlas.workers.dev/dublac/thun.mp4",
+ "kurti":"کورتی",
+"akurti":"پشتی کو ئەو خۆ دناڤ تەلهەکا مرنێدا دبینن، تیمەکا نەئاسایی دێ ل دژی پالەوانان بیت و دڤێت ئەو ئەرکەکێ مەترسیدار ئەنجام بدەن کو وان نەچاردکەت روویبرووی تاریترین بەشێ رابردوویێ خۆ ببن",
+"actor":"https://media.themoviedb.org/t/p/w276_and_h350_face/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg",
+"actor1":"https://media.themoviedb.org/t/p/w276_and_h350_face/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg",
+ "actor2":"https://media.themoviedb.org/t/p/w276_and_h350_face/sXpjQoFoYqNehfWhlkScF8lo9vc.jpg",
+ "actor3":"https://media.themoviedb.org/t/p/w276_and_h350_face/jAo0Rxl9EYVxLnhUlBww5Uxl89v.jpg",
+ "actor4":"https://media.themoviedb.org/t/p/w276_and_h350_face/chPekukMF5SNnW6b22NbYPqAStr.jpg",
+ "actor5":"https://media.themoviedb.org/t/p/w276_and_h350_face/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg",
+"new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
+    },
       {
    "id":4,
       "wene1":"https://video-delivery-worker.kurdishatlas.workers.dev/Logo/ff.jpg",
